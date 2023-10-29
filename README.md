@@ -69,3 +69,11 @@ Explore the various features and functionalities provided by the web application
 
 You can customize the application further by editing the HTML templates and adding additional functionality as needed.
 
+# Dependencies
+hmUI<br>
+Vibrator<br>
+
+# License
+This code is released under the MIT License. See LICENSE for more details.
+
+
