@@ -69,6 +69,16 @@ Explore the various features and functionalities provided by the web application
 
 You can customize the application further by editing the HTML templates and adding additional functionality as needed.
 
+# Frontend
+The frontend of this project is built using the following technologies:
+
+Next.js: Next.js is a React framework that provides server-side rendering, routing, and other useful features.
+
+Tailwind CSS: Tailwind CSS is a utility-first CSS framework that helps you quickly build responsive and highly customizable user interfaces.
+
+Daisy: Daisy is a library for [insert what Daisy does here].
+
+
 # Dependencies
 hmUI<br>
 Vibrator<br>
